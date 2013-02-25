@@ -1,0 +1,27 @@
+#0225-0301工作安排
+
+* TODO fill with the unit testing for the biz layer of iw, up from tag service
+* TODO write script to run test suites
+* TODO modify the svn switch script to upgrade specific project
+* TODO use source to load all the command in the .donotrepeatyourself
+* TODO make a new aone branch to fix the test failure in the ic project
+** DONE create branch in the AONE for it
+** TODO push code and deploy
+* TODO make script to add schedule and mistakes had made during work, also version control them
+** DONE create a file to track the mistakes
+* TODO learn basic org mode
+* TODO look at the code regarding the category
+** TODO  what is post category and display category
+-  every belt has its superior category, eg. 织里的优势产业是童装
+* TODO schedule the week meeting on Friday
+ * 邓士伟有分享
+* TODO buy fruit at 15:00 from 0225 to 0228
+** DONE bought fruit 0225
+* TODO 产业带后台体验优化:1.干预参数下拉选择值支持说明2.干预单条查询接口增加Cahce3.修改功能
+* TODO make script to rebuild all the projects
+* TODO 飘浮菜单及右侧定位区前后台集成 estimation=2 days
+* TODO 头部Banner\市场\活动区前后台集成 estimation=2 days
+* TODO 知名品牌\广告\底部等集成 estimation=1 day
+* TODO 文字链人工干预 estimation=1 day
+* TODO 人工干预后台功能完善 EST=1 day
+
