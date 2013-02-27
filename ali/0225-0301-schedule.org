@@ -3,6 +3,7 @@
 * TODO fill with the unit testing for the biz layer of iw, up from tag service
 * TODO write script to run test suites
 * TODO modify the svn switch script to upgrade specific project
+* TODO the install.sh in .donotrepeatyourself has problem to resolve
 * TODO use source to load all the command in the .donotrepeatyourself
 * TODO make script to add schedule and mistakes had made during work, also version control them
 ** DONE create a file to track the mistakes
@@ -44,7 +45,8 @@ CLOCK: [2013-02-26 二 09:40]--[2013-02-26 二 13:00] =>  3:20
 :PROPERTIES:
 :Effort:   1 day
 :END:
-* TODO attend the newbie meeting <2013-02-28 四>
+* TODO attend the newbie meeting <2013-03-12 二>
+* TODO understand the flow of the rending and context relationship in webx
 * DONE 知名品牌\广告\底部等集成
 :LOGBOOK:
 CLOCK: [2013-02-26 二 13:00]--[2013-02-26 二 17:01] =>  4:01
