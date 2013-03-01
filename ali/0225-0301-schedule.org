@@ -25,7 +25,12 @@
 :PROPERTIES:
 :Effort:   1 day
 :END:
-* STARTED 飘浮菜单及右侧定位区前后台集成
+* DONE 飘浮菜单及右侧定位区前后台集成
+CLOSED: [2013-03-01 五 15:28]
+- State "DONE"       from "STARTED"    [2013-03-01 五 15:28]
+** DONE 修改菜单的链接,用code或者displayIds
+CLOSED: [2013-03-01 五 15:28]
+- State "DONE"       from "TODO"       [2013-03-01 五 15:28]
 :LOGBOOK:
 CLOCK: [2013-02-26 二 17:02]
 CLOCK: [2013-02-26 二 09:40]--[2013-02-26 二 13:00] =>  3:20
