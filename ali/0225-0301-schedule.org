@@ -39,14 +39,13 @@ CLOCK: [2013-02-26 二 09:40]--[2013-02-26 二 13:00] =>  3:20
 :EFFORT:   2 DAY
 :END: 
 * TODO 头部BANNER\市场\活动区前后台集成
+
 :PROPERTIES:
 :EFFORT:   2 DAY
-:END:
+** TODO 和子页集成
 * TODO 文字链人工干预
-:PROPERTIES:
-:Effort:   1 day
-:END:
-* TODO 人工干预后台功能完善
+** TODO 从缓存读干预路径,注意空对象缓存
+
 :PROPERTIES:
 :Effort:   1 day
 :END:
